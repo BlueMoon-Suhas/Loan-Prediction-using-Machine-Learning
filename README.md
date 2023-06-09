@@ -1,7 +1,7 @@
 # Loan-Prediction-using-Machine-Learning
 
 
-he major aim of this project is to predict which of the customers will have
+The major aim of this project is to predict which of the customers will have
 their loan approved.
 
 
